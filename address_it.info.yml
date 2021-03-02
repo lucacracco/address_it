@@ -1,0 +1,7 @@
+name: Address Italy
+type: module
+description: Provides integration italian functionality for Address module.
+package: Field types
+core_version_requirement: ^8.8 || ^9
+dependencies:
+  - address:address

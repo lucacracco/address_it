@@ -1,0 +1,12 @@
+{
+  "name": "drupal/address_it",
+  "type": "drupal-module",
+  "description": "Provides integration italian functionality for Address module.",
+  "homepage": "http://drupal.org/project/address_it",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "php": ">= 7.1",
+    "drupal/core": "^8.8 || ^9",
+    "drupal/address": "^1.0"
+  }
+}

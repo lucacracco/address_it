@@ -1,0 +1,12 @@
+/composer.spoons.json
+/composer.spoons.lock
+/vendor/
+/web/
+/.env
+.envrc
+/.editorconfig
+/.gitattributes
+/.docker
+/config
+/private
+/.idea

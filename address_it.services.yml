@@ -1,0 +1,8 @@
+services:
+
+  # Subscribers.
+  address_it.subscriber:
+    class: Drupal\address_it\EventSubscriber\AddressEventSubscriber
+    arguments: [ '@cache.data' ]
+    tags:
+      - { name: event_subscriber }
